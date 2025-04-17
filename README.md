@@ -11,7 +11,7 @@ const ahsan = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS],
   tools: [React, Vue, Nuxt, React-Native, Expo, Redux, VueX, Thunk, Saga, Toolkit, Styled-Components],
-  architecture: ["microservices", "component view architecture", "Mvm", "event-driven", "design system pattern"],
+  architecture: ["microservices", "component view architecture", "event-driven", "design system pattern"],
   education: {
                         masters: "NED University",
                         bachelors: "Iqra University",
