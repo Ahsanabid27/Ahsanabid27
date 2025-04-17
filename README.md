@@ -10,7 +10,7 @@
 const ahsan = {
   pronouns: "he" | "his",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, React-Native, Expo, Redux, Thunk, Saga, Toolkit, Styled-Components],
+  tools: [React, Vue, Nuxt, React-Native, Expo, Redux, VueX, Thunk, Saga, Toolkit, Styled-Components],
   architecture: ["microservices", "event-driven", "design system pattern"],
   education: {
                         masters: "NED University",
