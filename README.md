@@ -1,6 +1,6 @@
 <h2> Hi, I'm Ahsan Abid!</h2>
 <img align='right' src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="260">
-<p><em>Senior Software Engineer ( React Native ) <img src="https://miro.medium.com/v2/resize:fit:960/1*h7GMfvHKvLPkynG9NvULJw.gif" width="30">
+<p><em>Senior Software Engineer <img src="https://miro.medium.com/v2/resize:fit:960/1*h7GMfvHKvLPkynG9NvULJw.gif" width="30">
 </em></p>
 
 
